@@ -1,0 +1,80 @@
+.title{
+    background-color: aqua;
+    border: 2px solid red;
+    border-radius: 2px;
+    text-align: center;
+}
+.VS{
+    background-color: yellow;
+    color: black;
+}
+.hayvon{
+    color: red;
+}
+.white{
+    color: green;
+}
+.lite{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+.space{
+    background-color: yellow;
+    color: green;
+    text-align: center  ;
+}
+.joja{
+    text-align: center;
+    
+} .fall{
+    width: 500px;
+    height: 300px;
+    text-align: center;
+}
+.simba{
+    text-align: center;
+}
+.head{
+    text-align: center;
+}
+.hot{
+    color: green;
+}
+.dad{
+    color: green;
+}
+.sev{
+    color: green;
+}
+.tea{
+    background-color: aqua;
+    color: white;
+}
+.ota{
+    width: 700px;
+    text-align: center;
+    height: 50px;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+tr,th,td{
+    border: 2px solid black;
+}
+.bot{
+    border: 2px solid;
+}
+.yosh{
+    background-color: red;
+    color: white;
+}
+.bosh{
+    background-color: green;
+}
+.note{
+    background-color: blue;
+}
+.data{
+    background-color: black;
+    color: white;
+}
